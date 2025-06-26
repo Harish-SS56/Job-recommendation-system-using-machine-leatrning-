@@ -1,4 +1,4 @@
-Job Recommendation System
+Job Recommendation System:
 
 This project is a Streamlit-based Job Recommendation System designed to assist both job seekers and recruiters in simplifying the hiring process. Leveraging NLP techniques, TF-IDF similarity, and real-time job APIs, this application provides tailored recommendations and insights.
 
